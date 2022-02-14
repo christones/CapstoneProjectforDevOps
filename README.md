@@ -50,6 +50,7 @@ In this project i will apply the skills and knowledge which were developed throu
 
     Run docker flask-app container:
     #### sudo docker build -t flask-app .
+     ![image](screenshots/img2.png)
     #### sudo docker run -d -p 5000:5000 --name flask-app flask-app
 
 <br>
