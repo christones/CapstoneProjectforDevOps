@@ -65,6 +65,7 @@ In this project i will apply the skills and knowledge which were developed throu
     #### sudo docker login --username=christones
     #### sudo docker push christones/flask-app:latest
     ![image](screenshots/img3.png) 
+    ![image](screenshots/img4.png) 
   
 <hr>
 
