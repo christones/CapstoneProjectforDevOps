@@ -52,7 +52,9 @@ In this project i will apply the skills and knowledge which were developed throu
     #### sudo docker build -t flask-app .
      ![image](screenshots/img2.png)
     #### sudo docker run -d -p 5000:5000 --name flask-app flask-app
+       A string logs will be generated after execution
     #### sudo docker logs “generatedlogs”
+       Example : sudo docker logs  fbd1cac28611dcae10b9f8fd17af2cd8522418c77d98f8254ea4bad90820527c
 
 <br>
 
