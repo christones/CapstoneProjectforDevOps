@@ -96,7 +96,7 @@ In this project i will apply the skills and knowledge which were developed throu
    
    ssh -i "Udacity-CapstonebyChris.pem" ec2-user@ec2-44-201-195-107.compute-1.amazonaws.com
    
-   ![image](screenshots/img8.png) 
+   ![img](screenshots/img8.png)
 
 - **Setup Jenkins Server:** 
 
