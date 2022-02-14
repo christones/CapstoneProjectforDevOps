@@ -48,15 +48,15 @@ In this project i will apply the skills and knowledge which were developed throu
 - **Docker Containerization (Local manual check):**
 
     Run docker flask-app container:
-    docker build -t flask-app .
-    docker run -d -p 5000:5000 --name flask-app flask-app
+    #### docker build -t flask-app .
+    #### docker run -d -p 5000:5000 --name flask-app flask-app
 
 <br>
 
 - **Push docker image to docker-hub (Local manual check):**
-  docker tag flask-app:latest mahaamin97/flask-app:latest
-  docker login --username=mahaamin97
-  docker push mahaamin97/flask-app:latest
+  #### docker tag flask-app:latest mahaamin97/flask-app:latest
+  #### docker login --username=mahaamin97
+  #### docker push mahaamin97/flask-app:latest
   
 <hr>
 
