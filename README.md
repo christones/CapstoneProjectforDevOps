@@ -42,6 +42,7 @@ In this project i will apply the skills and knowledge which were developed throu
 ### Development
 
  - Simple flask application.
+ ![image](screenshots/img9.png)
  ![image](screenshots/img1.png)
 
 <hr>
