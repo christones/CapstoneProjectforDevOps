@@ -50,7 +50,12 @@ In this project i will apply the skills and knowledge which were developed throu
     Run docker flask-app container:
 
     ```
-        $./run_docker.sh
+# Build flask-app image
+docker build -t flask-app .
+
+# Run flask-app container
+docker run -d -p 5000:5000 --name flask-app flask-app
+
     ```
 
 <br>
@@ -58,7 +63,15 @@ In this project i will apply the skills and knowledge which were developed throu
 - **Push docker image to docker-hub (Local manual check):**
 
     ```
-        $./upload_docker.sh
+# Tag image
+docker tag flask-app:latest mahaamin97/flask-app:latest
+
+# Login to docker-hub
+docker login --username=mahaamin97
+
+# Push image
+docker push mahaamin97/flask-app:latest
+
     ```
 <hr>
 
