@@ -103,17 +103,27 @@ In this project i will apply the skills and knowledge which were developed throu
     - Install java:
 
         ```
-        $ sudo apt update && sudo apt install default-jdk;
+        $ sudo yum update && sudo yum install java-1.8.0-openjdk
         ```
 
     - Install Jenkins.
+     ```
+     $ curl --silent --location http://pkg.jenkins-ci.org/redhat-stable/jenkins.repo | sudo tee /etc/yum.repos.d/jenkins.repo
+
+     $ sudo rpm --import https://jenkins-ci.org/redhat/jenkins-ci.org.key
+     
+     $ cat /etc/yum.repos.d/jenkins.repo  (Verifying the download)
+     
+     $ sudo yum install jenkins 
+     
+     ```
 
     - Install pip3 and venv:
         ```
-        $ sudo apt install python3-pip
+        $ sudo yum install python3-pip
         ```
         ```
-        $ sudo apt-get install python3-venv
+        $ spython3 -m venv python3-virtualenv
         ```
 
     - Install "Blue-Ocean-Aggregator" Plug-In.
