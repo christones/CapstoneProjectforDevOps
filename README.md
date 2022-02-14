@@ -73,7 +73,7 @@ In this project i will apply the skills and knowledge which were developed throu
 
 - **Create security-group for jenkins:**
 
-![1-jenkins-sg.png](screenshots/1-jenkins-sg.png)
+![1-jenkins-sg.png](screenshots/1-jenkins-sg01.png)
 
 - **Create jenkins EC2:**
 
