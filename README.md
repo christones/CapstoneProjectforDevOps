@@ -87,7 +87,7 @@ In this project i will apply the skills and knowledge which were developed throu
  ![2-jenkins-ec2.png](screenshots/img7.png)
  
  Launching the instance
-![2-jenkins-ec2.png](screenshots/2-jenkins-ec2-01.png)
+![2-jenkins-ec2.png](screenshots/2-jenkins-ec2-01-02.png)
 
 - **Connect to jenkins ec2:**
 
