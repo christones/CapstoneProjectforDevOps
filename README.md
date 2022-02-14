@@ -92,7 +92,7 @@ In this project i will apply the skills and knowledge which were developed throu
 - **Connect to jenkins ec2:**
 
     ```
-    ssh -i 3.86.187.67@ec2-3-86-187-67.compute-1.amazonaws.com
+   ssh -i "Udacity-CapstonebyChris.pem" ec2-user@ec2-44-201-195-107.compute-1.amazonaws.com
 
 - **Setup Jenkins Server:** 
 
