@@ -95,9 +95,9 @@ In this project i will apply the skills and knowledge which were developed throu
    chmod 400  Udacity-CapstonebyChris.pem (Activating the downloaded Key Pair RSA signature )
    
    ssh -i "Udacity-CapstonebyChris.pem" ec2-user@ec2-44-201-195-107.compute-1.amazonaws.com
-   
-   ![img](screenshots/img8.png)
+  
 
+-   ![img](screenshots/img8.png)
 - **Setup Jenkins Server:** 
 
     - Install java:
