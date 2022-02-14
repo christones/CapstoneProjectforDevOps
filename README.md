@@ -1,5 +1,5 @@
-<hr>
 ## CapstoneProjectforDevOps-Udacity
+
 This is the Capstone project for Udacity's "Cloud DevOps Engineer" Nanodegree Program.
 In this project i will apply the skills and knowledge which were developed throughout the Cloud DevOps Nanodegree program. These include:  
 - Working in AWS
