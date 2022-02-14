@@ -50,29 +50,26 @@ In this project i will apply the skills and knowledge which were developed throu
     Run docker flask-app container:
 
     ```
-******* Build flask-app image
+######## Build flask-app image
 docker build -t flask-app .
-
-******* Run flask-app container
+   ```
+######## Run flask-app container
 docker run -d -p 5000:5000 --name flask-app flask-app
-
-    ```
+     ```
 
 <br>
 
 - **Push docker image to docker-hub (Local manual check):**
 
     ```
-******* Tag image
+######### Tag image
 docker tag flask-app:latest mahaamin97/flask-app:latest
-
-******* Login to docker-hub
+   ```
+######## Login to docker-hub
 docker login --username=mahaamin97
-
-******* Push image
+######## Push image
 docker push mahaamin97/flask-app:latest
 
-    ```
 <hr>
 
 ### Jenkins
