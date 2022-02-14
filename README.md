@@ -196,7 +196,7 @@ Create kubernetes "Production" Cluster on AWS using EKS: (From my local machine)
     kubectl config current-context
     ```
 
-    ![8-kubectl-config-current-context.png](screenshots/8-kubectl-config-current-context.png)
+    ![8-kubectl-config-current-context.png](screenshots/8-kubectl-config-current-context01.png)
 
     5. Create worker nodes to join kubernetes cluster using **CloudFormation/amazon-eks-nodegroup.yaml**:
 
