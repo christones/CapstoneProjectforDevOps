@@ -217,7 +217,7 @@ Create kubernetes "Production" Cluster on AWS using EKS: (From my local machine)
     kubectl get nodes
     ```
 
-    ![11-kubectl-get-nodes.png](screenshots/11-kubectl-get-nodes.png)
+    ![11-kubectl-get-nodes.png](screenshots/11-kubectl-get-nodes01.png)
 
     ![12-node-groups-ec2s.png](screenshots/12-node-groups-ec2s.png)
     
