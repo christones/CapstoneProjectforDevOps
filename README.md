@@ -237,7 +237,7 @@ Create kubernetes "Production" Cluster on AWS using EKS: (From my local machine)
     kubectl get all
     ```
 
-    ![13-kubectl-get-all.png](screenshots/13-kubectl-get-all.png)
+    ![13-kubectl-get-all.png](screenshots/13-kubectl-get-all01.png)
 
     Access the app from browser:
 
