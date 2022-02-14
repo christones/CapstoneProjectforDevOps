@@ -76,8 +76,18 @@ In this project i will apply the skills and knowledge which were developed throu
 ![1-jenkins-sg.png](screenshots/1-jenkins-sg01.png)
 
 - **Create jenkins EC2:**
+ 
+ Starting with Choosing the Amazon Machine Image OS 
+![2-jenkins-ec2.png](screenshots/img5.png)
 
-![2-jenkins-ec2.png](screenshots/2-jenkins-ec2.png)
+ Choosing an instance type 
+ ![2-jenkins-ec2.png](screenshots/img6.png)
+ 
+ Configuring security groups
+ ![2-jenkins-ec2.png](screenshots/img7.png)
+ 
+ Launching the instance
+![2-jenkins-ec2.png](screenshots/2-jenkins-ec2-01.png)
 
 - **Connect to jenkins ec2:**
 
