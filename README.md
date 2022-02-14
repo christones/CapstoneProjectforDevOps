@@ -54,6 +54,7 @@ In this project i will apply the skills and knowledge which were developed throu
 <br>
 
 - **Push docker image to docker-hub (Local manual check):**
+-  Pushing to the registry :
   #### docker tag flask-app:latest mahaamin97/flask-app:latest
   #### docker login --username=mahaamin97
   #### docker push mahaamin97/flask-app:latest
